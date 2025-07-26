@@ -4,7 +4,7 @@ function firstChar(text) {
 		if(trimmedText.length>0){
 		return trimmedText[0]
 	}
-	return '';
+	return ' ';
 }
 
 // Do not change the code below
